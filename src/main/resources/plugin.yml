@@ -1,0 +1,7 @@
+name: Bounce
+version: 1.0.0
+main: computer.austins.bounce.BouncePlugin
+description: Arrows go boing boing
+author: Austin Albrecht
+website: https://austins.computer
+api-version: '1.20'
